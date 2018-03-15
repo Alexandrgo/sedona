@@ -36,7 +36,11 @@ nav li .hotels-active{
 	display: inline-block;
 	vertical-align: middle;
 	margin: 0 65px;
+}
 
+.main-navigator ul {
+	padding: 0;
+	margin: 0;
 }
 
 .main-navigator a {
@@ -172,8 +176,6 @@ nav li .hotels-active{
 	margin: 30px 0;
 }
 
-
-}
 .advices-text:first-child {
 	padding:0 93px;	
 }
